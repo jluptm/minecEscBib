@@ -1,2 +1,2 @@
-streamli>=1.0.52
+streamlit>=1.52.2
 libsql-client>=0.3.1
